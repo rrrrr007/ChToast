@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <item name="mainId" type="id"/>
+    <item name="outId" type="id"/>
+</resources>
